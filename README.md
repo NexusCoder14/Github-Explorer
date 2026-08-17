@@ -75,17 +75,19 @@ github-explorer/
 
 ---
 
-## 📸 Screenshots
+## 📁 Screenshots
 
-*(Add your screenshots here after launching the app)*
+### Home Page
 
-| Home Page Search | Repository Dashboard |
-| :---: | :---: |
-| *![Home Page Screenshot]* | *![Repository Details Screenshot]* |
+![Home Page](screenshots/home.png)
+
+### Repository Dashboard
+
+![Repository Dashboard](screenshots/repo.png)
 
 ---
 
 ## 🌐 Deployment Link
 
 <!-- Add your live deployment URL below once deployed -->
-[Live Deployment Link]()
+[Live Deployment Link](https://github-explorer-omega-snowy.vercel.app/)
